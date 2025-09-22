@@ -5,8 +5,8 @@ class marjona{
         echo "Salom Dunyo Marjona";
     }
 
-    public function FunctionName($firtName, $lastName) {
-        return $firtName + $lastName;
+    public function FunctionName($firtName, $lastName, $tug_sana) {
+        return $firtName + $lastName + $tug_sana;
     }
 
 }
