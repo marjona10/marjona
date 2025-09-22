@@ -2,7 +2,7 @@
 
 class marjona{
     public function salomDunyo() {
-        echo "Salom Dunyo";
+        echo "Salom Dunyo Marjona";
     }
 
     public function FunctionName($firtName, $lastName) {
