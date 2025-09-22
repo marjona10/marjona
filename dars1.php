@@ -1,5 +1,12 @@
 <?php
 
 class marjona{
-    echo "Salom Dunyo"
+    public function salomDunyo() {
+        echo "Salom Dunyo";
+    }
+
+    public function FunctionName($firtName, $lastName) {
+        return $firtName + $lastName;
+    }
+
 }
