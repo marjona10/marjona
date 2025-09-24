@@ -1,6 +1,6 @@
 <?php
 
-echo "Shabnam https://github.com/marjona10/marjona.git";
+echo "Shabnam rozmatova https://github.com/marjona10/marjona.git";
 class marjona{
     public function salomDunyo() {
         echo "Salom Dunyo Marjona";
